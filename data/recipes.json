@@ -86,6 +86,35 @@
         "Przykryj i wstaw do lodówki na noc.",
         "Na wierzch dodaj jagody przed podaniem."
       ]
+    },
+    {
+      "slug": "proste-babeczki-waniliowe",
+      "name": "Proste babeczki waniliowe",
+      "description": "Klasyczne, puszyste babeczki waniliowe, które zawsze wychodzą i są bardzo proste w przygotowaniu.",
+      "time": "30 min",
+      "image": "https://ciastkozercy.pl/wp-content/uploads/2013/12/babeczki-waniliowe-51.jpg",
+      "images": [
+        "https://ciastkozercy.pl/wp-content/uploads/2013/12/babeczki-waniliowe-51.jpg",
+        "https://ciastkozercy.pl/wp-content/uploads/2013/12/babeczki-waniliowe-31.jpg",
+        "https://ciastkozercy.pl/wp-content/uploads/2013/12/babeczki-waniliowe-41.jpg"
+      ],
+      "tags": ["babeczki", "waniliowe", "deser", "proste", "dla-dzieci"],
+      "ingredients": [
+        "2 szklanki mąki",
+        "2 łyżeczki proszku do pieczenia",
+        "0,5 szklanki cukru",
+        "2 łyżeczki cukru waniliowego",
+        "1 jajko",
+        "0,5 szklanki oleju",
+        "1 szklanka mleka"
+      ],
+      "steps": [
+        "W osobnej misce wymieszaj suche składniki: mąkę, proszek do pieczenia, cukier i cukier waniliowy.",
+        "W drugiej misce połącz jajko, olej i mleko.",
+        "Wlej mokre składniki do suchych i mieszaj delikatnie tylko do połączenia składników.",
+        "Napełnij foremki do około 2/3 wysokości i piecz w piekarniku nagrzanym do 180°C przez 20–25 minut.",
+        "Po upieczeniu wystudź babeczki i podawaj je na ciepło lub po ostygnięciu."
+      ]
     }
   ]
 }
