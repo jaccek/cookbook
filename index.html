@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Książka kucharska</title>
+    <meta
+      name="description"
+      content="Prosta książka kucharska na GitHub Pages z wyszukiwaniem przepisów i filtrami tagów."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="container">
+        <p class="eyebrow">Społeczna książka kucharska</p>
+        <h1>Książka kucharska</h1>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="toolbar" aria-label="Wyszukiwanie i filtry przepisów">
+        <div class="field-group">
+          <label for="searchInput">Szukaj przepisów</label>
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="Szukaj po nazwie lub tagu"
+            autocomplete="off"
+          />
+        </div>
+
+        <div class="field-group">
+          <span class="filter-label">Filtruj według tagu</span>
+          <div id="tagFilters" class="tag-list" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section class="results-bar">
+        <p id="resultsCount" aria-live="polite">0 przepisów</p>
+      </section>
+
+      <section id="recipeList" class="recipe-grid" aria-live="polite"></section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

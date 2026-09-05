@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Szczegóły przepisu</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="recipe">
+    <header class="topbar">
+      <div class="container">
+        <p class="eyebrow">Szczegóły przepisu</p>
+        <h1>Książka kucharska</h1>
+      </div>
+    </header>
+
+    <main class="container">
+      <a class="back-link" href="index.html">← Powrót do wszystkich przepisów</a>
+
+      <article id="recipeDetail" class="recipe-detail" aria-live="polite">
+        <div class="recipe-card__header">
+          <h1 id="recipeTitle">Ładowanie...</h1>
+          <span id="recipeMeta" class="recipe-card__meta">Szybki posiłek</span>
+        </div>
+
+        <div id="recipeGallery" class="recipe-detail__gallery"></div>
+
+        <p id="recipeDescription" class="recipe-detail__description"></p>
+
+        <div id="recipeTags" class="recipe-card__tags"></div>
+
+        <div class="recipe-detail__section">
+          <h2>Składniki</h2>
+          <ul id="recipeIngredients"></ul>
+        </div>
+
+        <div class="recipe-detail__section">
+          <h2>Przygotowanie</h2>
+          <ol id="recipeSteps"></ol>
+        </div>
+      </article>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

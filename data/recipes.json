@@ -1,0 +1,91 @@
+{
+  "recipes": [
+    {
+      "slug": "avocado-chickpea-salad",
+      "name": "Sałatka z awokado i ciecierzycy",
+      "description": "Świeża, bogata w białko sałatka, która powstaje w kilka minut.",
+      "time": "15 min",
+      "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": ["wegetariańskie", "szybkie", "lunch", "wysokobiałkowe"],
+      "ingredients": [
+        "1 puszka ciecierzycy, odsączona i opłukana",
+        "1 awokado, pokrojone w kostkę",
+        "1 szklanka pomidorków koktajlowych, przekrojonych",
+        "1 ogórek, pokrojony",
+        "2 łyżki oliwy z oliwek",
+        "1 łyżka soku z cytryny",
+        "Sól i pieprz do smaku",
+        "Świeża pietruszka, posiekana"
+      ],
+      "steps": [
+        "Połącz ciecierzycę, awokado, pomidory i ogórek w dużej misce.",
+        "Wymieszaj oliwę z oliwek i sok z cytryny z solą i pieprzem.",
+        "Wlej dressing na sałatkę i delikatnie wymieszaj.",
+        "Posyp pietruszką i podawaj od razu."
+      ]
+    },
+    {
+      "slug": "vegetable-lentil-curry",
+      "name": "Warzywne curry z soczewicą",
+      "description": "Pocieszające i rozgrzewające curry z soczewicą i warzywami.",
+      "time": "35 min",
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": ["wegańskie", "kolacja", "curry", "na-przygotowanie"],
+      "ingredients": [
+        "1 szklanka czerwonej soczewicy",
+        "1 cebula, posiekana",
+        "2 ząbki czosnku, posiekane",
+        "1 łyżka imbiru, startego",
+        "1 puszka mleczka kokosowego",
+        "2 szklanki bulionu warzywnego",
+        "1 marchewka, pokrojona",
+        "1 papryka, pokrojona",
+        "2 łyżki przyprawy curry",
+        "1 łyżeczka kuminu",
+        "Sól do smaku"
+      ],
+      "steps": [
+        "Podsmaż cebulę, czosnek i imbir, aż się rozaromatyzują.",
+        "Dodaj curry i kumin, a następnie mieszaj przez 30 sekund.",
+        "Dodaj soczewicę, warzywa, mleczko kokosowe i bulion.",
+        "Gotuj przez 25 minut, aż soczewica będzie miękka, a curry zgęstnieje.",
+        "Dopraw solą i podawaj z ryżem lub naan."
+      ]
+    },
+    {
+      "slug": "berry-overnight-oats",
+      "name": "Jaglane płatki z borówkami na noc",
+      "description": "Proste śniadanie przygotowane z wyprzedzeniem z płatkami i owocami.",
+      "time": "10 min + noc",
+      "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1471193945509-9ad0617afabf?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": ["śniadanie", "łatwe", "słodkie", "na-przygotowanie"],
+      "ingredients": [
+        "1/2 szklanki płatków owsianych",
+        "1/2 szklanki mleka",
+        "1/4 szklanki jogurtu",
+        "1 łyżka nasion chia",
+        "1 łyżka syropu klonowego",
+        "1/2 szklanki mieszanych jagód",
+        "1/4 łyżeczki ekstraktu z wanilii"
+      ],
+      "steps": [
+        "Dodaj płatki, mleko, jogurt, nasiona chia, syrop klonowy i wanilię do słoika.",
+        "Dobrze wymieszaj wszystkie składniki.",
+        "Przykryj i wstaw do lodówki na noc.",
+        "Na wierzch dodaj jagody przed podaniem."
+      ]
+    }
+  ]
+}
