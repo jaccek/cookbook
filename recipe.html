@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Szczegóły przepisu</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css?v=2" />
   </head>
   <body data-page="recipe">
     <header class="topbar">
@@ -28,7 +28,15 @@
         <p id="recipeDescription" class="recipe-detail__description"></p>
 
         <div class="recipe-detail__source">
-          <a id="recipeSource" href="#" target="_blank" rel="noopener noreferrer">Oryginał przepisu</a>
+          <a
+            id="recipeSource"
+            href="#"
+            target="_blank"
+            rel="noopener noreferrer"
+            style="display:inline-flex; align-items:center; gap:0.4rem; background:#f4efe8; color:#2d4f28; text-decoration:none; border:1px solid #e2d9ca; border-radius:999px; padding:0.55rem 0.9rem; font-weight:700; transition:background 0.2s ease, transform 0.2s ease, border-color 0.2s ease;"
+          >
+            Oryginał przepisu
+          </a>
         </div>
 
         <div id="recipeTags" class="recipe-card__tags"></div>

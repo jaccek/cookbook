@@ -322,6 +322,7 @@ input[type="search"]:focus {
   margin: 0 0 1.2rem;
 }
 
+#recipeSource,
 .recipe-detail__source a {
   display: inline-flex;
   align-items: center;
@@ -336,6 +337,8 @@ input[type="search"]:focus {
   transition: background 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
 }
 
+#recipeSource:hover,
+#recipeSource:focus-visible,
 .recipe-detail__source a:hover,
 .recipe-detail__source a:focus-visible {
   background: #efe4d6;
