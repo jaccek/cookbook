@@ -4,6 +4,7 @@
       "slug": "avocado-chickpea-salad",
       "name": "Sałatka z awokado i ciecierzycy",
       "description": "Świeża, bogata w białko sałatka, która powstaje w kilka minut.",
+      "source": "https://www.bbcgoodfood.com/recipes/avocado-chickpea-salad",
       "time": "15 min",
       "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=900&q=80",
       "images": [
@@ -32,6 +33,7 @@
       "slug": "vegetable-lentil-curry",
       "name": "Warzywne curry z soczewicą",
       "description": "Pocieszające i rozgrzewające curry z soczewicą i warzywami.",
+      "source": "https://www.bbcgoodfood.com/recipes/vegetable-lentil-curry",
       "time": "35 min",
       "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=80",
       "images": [
@@ -64,6 +66,7 @@
       "slug": "berry-overnight-oats",
       "name": "Jaglane płatki z borówkami na noc",
       "description": "Proste śniadanie przygotowane z wyprzedzeniem z płatkami i owocami.",
+      "source": "https://www.eatingwell.com/recipe/7904680/berry-overnight-oats/",
       "time": "10 min + noc",
       "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80",
       "images": [
@@ -91,6 +94,7 @@
       "slug": "proste-babeczki-waniliowe",
       "name": "Proste babeczki waniliowe",
       "description": "Klasyczne, puszyste babeczki waniliowe, które zawsze wychodzą i są bardzo proste w przygotowaniu.",
+      "source": "https://ciastkozercy.pl/babeczki-waniliowe-2/",
       "time": "30 min",
       "image": "https://ciastkozercy.pl/wp-content/uploads/2013/12/babeczki-waniliowe-51.jpg",
       "images": [

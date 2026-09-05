@@ -201,6 +201,20 @@ function renderRecipeDetail() {
   document.getElementById('recipeDescription').textContent = recipe.description;
   document.getElementById('recipeMeta').textContent = recipe.time ?? 'Szybki posiłek';
 
+  const sourceLink = document.getElementById('recipeSource');
+  const sourceUrl = recipe.source || '';
+
+  if (sourceLink) {
+    if (sourceUrl) {
+      sourceLink.href = sourceUrl;
+      sourceLink.hidden = false;
+      sourceLink.textContent = 'Oryginał przepisu';
+    } else {
+      sourceLink.hidden = true;
+      sourceLink.removeAttribute('href');
+    }
+  }
+
   const galleryContainer = document.getElementById('recipeGallery');
   const images = getRecipeImages(recipe);
   galleryContainer.innerHTML = (images.length ? images : [''])
