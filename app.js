@@ -42,7 +42,7 @@ function getRecipeImages(recipe) {
 
 async function loadRecipes() {
   try {
-    const response = await fetch('data/recipes.json');
+    const response = await fetch('data/recipes.json?v=3');
     if (!response.ok) {
       throw new Error(`Unable to load recipe data: ${response.status}`);
     }
@@ -152,6 +152,8 @@ function renderRecipes() {
 
           <p class="recipe-card__description">${recipe.description}</p>
 
+          ${recipe.source ? `<a class="recipe-card__source" href="${recipe.source}" target="_blank" rel="noopener noreferrer">Źródło: ${recipe.sourceName ?? recipe.source}</a>` : ''}
+
           <div class="recipe-card__tags">
             ${(recipe.tags ?? [])
               .map(
@@ -208,7 +210,7 @@ function renderRecipeDetail() {
     if (sourceUrl) {
       sourceLink.href = sourceUrl;
       sourceLink.hidden = false;
-      sourceLink.textContent = 'Oryginał przepisu';
+      sourceLink.textContent = `Źródło: ${recipe.sourceName ?? sourceUrl}`;
     } else {
       sourceLink.hidden = true;
       sourceLink.removeAttribute('href');

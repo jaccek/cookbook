@@ -217,6 +217,21 @@ input[type="search"]:focus {
   line-height: 1.6;
 }
 
+.recipe-card__source {
+  display: block;
+  margin: 0 1.1rem 1rem;
+  color: var(--primary-dark);
+  font-size: 0.88rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.recipe-card__source:hover,
+.recipe-card__source:focus-visible {
+  color: var(--secondary);
+  text-decoration: underline;
+}
+
 .recipe-card__tags {
   display: flex;
   flex-wrap: wrap;
