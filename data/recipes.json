@@ -60,6 +60,50 @@
         "Napełnij foremki do około 2/3 wysokości i piecz w piekarniku nagrzanym do 180°C przez 20–25 minut.",
         "Po upieczeniu wystudź babeczki i podawaj je na ciepło lub po ostygnięciu."
       ]
+    },
+    {
+      "slug": "pizzerinki",
+      "name": "Pizzerinki, puszyste mini pizze",
+      "description": "Puszyste mini pizze z sosem pomidorowym, warzywami, wędliną i serem, idealne na imprezę lub szybką kolację.",
+      "source": "https://beszamel.se.pl/przepisy/pizza-i-ciasta-wytrawne/przepis-na-pizzerinki-puszyste-i-pyszne-mini-pizze-re-XsUX-eESx-NUky.html",
+      "sourceName": "Beszamel",
+      "time": "35 min",
+      "image": "https://cdn.galleries.smcloud.net/t/galleries/gf-hEru-zVq5-Jtnr_przepis-na-pizzerinki-puszyste-i-pyszne-mini-pizze-994x828.webp",
+      "images": [
+        "https://cdn.galleries.smcloud.net/t/galleries/gf-hEru-zVq5-Jtnr_przepis-na-pizzerinki-puszyste-i-pyszne-mini-pizze-994x828.webp"
+      ],
+      "tags": ["pizzerinki", "pizza", "przekąska", "impreza", "kolacja"],
+      "ingredients": [
+        "Rozczyn: 5 dag drożdży",
+        "Rozczyn: 2 łyżki cukru",
+        "Rozczyn: 1 szklanka ciepłej wody",
+        "Rozczyn: 3 czubate łyżki mąki",
+        "Ciasto: 0,5 kg mąki",
+        "Ciasto: 3 łyżki oliwy",
+        "Ciasto: 0,5 szklanki ciepłej wody",
+        "Ciasto: 1 łyżeczka soli",
+        "Sos: 1 słoiczek koncentratu pomidorowego (190 g)",
+        "Sos: 3 łyżki wody",
+        "Sos: 3 łyżki oliwy lub oleju",
+        "Sos: 2 ząbki czosnku",
+        "Sos: oregano i bazylia",
+        "Na wierzch: 1 papryka",
+        "Na wierzch: 1 cebula",
+        "Na wierzch: szynka lub salami",
+        "Na wierzch: ser żółty",
+        "Na wierzch: pieczarki",
+        "Na wierzch: oregano i bazylia"
+      ],
+      "steps": [
+        "Drożdże rozpuść w szklance ciepłej wody, dodaj cukier i mąkę. Wymieszaj i odstaw na kilka minut, aż rozczyn zacznie rosnąć.",
+        "Dodaj rozczyn do pozostałych składników ciasta i wyrób je ręcznie lub mikserem z hakami, aż zacznie odchodzić od rąk.",
+        "Odstaw ciasto na około 30 minut do wyrośnięcia. W tym czasie wymieszaj składniki sosu i przeciśnij czosnek przez praskę.",
+        "Paprykę i cebulę pokrój w małą kostkę i podsmaż na odrobinie oleju.",
+        "Zetrzyj ser, pokrój wędlinę w paski, a pieczarki w plasterki.",
+        "Z wyrośniętego ciasta odrywaj kawałki, rozwałkuj je dość cienko i wycinaj krążki kubkiem lub szklanką.",
+        "Ułóż krążki na blasze wyłożonej papierem. Posmaruj sosem, dodaj paprykę z cebulą, pieczarki i wędlinę, a następnie posyp serem.",
+        "Posyp delikatnie oregano i bazylią. Piecz około 15 minut w temperaturze 180°C."
+      ]
     }
   ]
 }
