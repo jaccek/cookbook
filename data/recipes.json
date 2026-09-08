@@ -31,35 +31,6 @@
       ]
     },
     {
-      "slug": "berry-overnight-oats",
-      "name": "Jaglane płatki z borówkami na noc",
-      "description": "Proste śniadanie przygotowane z wyprzedzeniem z płatkami i owocami.",
-      "source": "https://www.eatingwell.com/recipe/7904680/berry-overnight-oats/",
-      "sourceName": "EatingWell",
-      "time": "10 min + noc",
-      "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80",
-        "https://images.unsplash.com/photo-1471193945509-9ad0617afabf?auto=format&fit=crop&w=900&q=80"
-      ],
-      "tags": ["śniadanie", "łatwe", "słodkie", "na-przygotowanie"],
-      "ingredients": [
-        "1/2 szklanki płatków owsianych",
-        "1/2 szklanki mleka",
-        "1/4 szklanki jogurtu",
-        "1 łyżka nasion chia",
-        "1 łyżka syropu klonowego",
-        "1/2 szklanki mieszanych jagód",
-        "1/4 łyżeczki ekstraktu z wanilii"
-      ],
-      "steps": [
-        "Dodaj płatki, mleko, jogurt, nasiona chia, syrop klonowy i wanilię do słoika.",
-        "Dobrze wymieszaj wszystkie składniki.",
-        "Przykryj i wstaw do lodówki na noc.",
-        "Na wierzch dodaj jagody przed podaniem."
-      ]
-    },
-    {
       "slug": "proste-babeczki-waniliowe",
       "name": "Proste babeczki waniliowe",
       "description": "Klasyczne, puszyste babeczki waniliowe, które zawsze wychodzą i są bardzo proste w przygotowaniu.",
