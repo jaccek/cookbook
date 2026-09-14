@@ -143,7 +143,11 @@ function renderRecipes() {
       const primaryImage = getRecipeImages(recipe)[0];
       return `
         <article class="recipe-card">
-          ${primaryImage ? `<img class="recipe-card__image" src="${primaryImage}" alt="${recipe.name}" loading="lazy" />` : ''}
+          ${primaryImage ? `
+            <a class="recipe-card__image-link" href="recipe.html?recipe=${encodeURIComponent(recipe.slug)}" aria-label="Zobacz przepis: ${recipe.name}">
+              <img class="recipe-card__image" src="${primaryImage}" alt="${recipe.name}" loading="lazy" />
+            </a>
+          ` : ''}
 
           <div class="recipe-card__header">
             <h3>${recipe.name}</h3>

@@ -179,6 +179,18 @@ input[type="search"]:focus {
   object-fit: cover;
   display: block;
   border-bottom: 1px solid var(--border);
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.recipe-card__image-link {
+  display: block;
+  overflow: hidden;
+}
+
+.recipe-card__image-link:hover .recipe-card__image,
+.recipe-card__image-link:focus-visible .recipe-card__image {
+  transform: scale(1.02);
+  filter: brightness(0.95);
 }
 
 .recipe-card__meta {
