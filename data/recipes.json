@@ -104,6 +104,48 @@
         "Ułóż krążki na blasze wyłożonej papierem. Posmaruj sosem, dodaj paprykę z cebulą, pieczarki i wędlinę, a następnie posyp serem.",
         "Posyp delikatnie oregano i bazylią. Piecz około 15 minut w temperaturze 180°C."
       ]
+    },
+    {
+      "slug": "ciasto-marchewkowe-z-kremem-serkowym",
+      "name": "Ciasto marchewkowe z kremem serkowym",
+      "description": "Wilgotne, korzenne ciasto marchewkowe z delikatnym kremem serkowym i chrupiącą warstwą orzechów włoskich.",
+      "source": "https://haps.pl/Haps/7,167251,33018007,scieram-marchewke-i-lacze-z-puszysta-masa-efekt-jesienne-ciasto.html",
+      "sourceName": "Haps",
+      "time": "55 min",
+      "image": "https://bi.im-g.pl/im/db/7d/1f/z33018075IH,Ciasto-marchewkowe.jpg",
+      "images": [
+        "https://bi.im-g.pl/im/db/7d/1f/z33018075IH,Ciasto-marchewkowe.jpg"
+      ],
+      "tags": ["ciasto", "marchewka", "deser", "jesienne", "z-kremem"],
+      "ingredients": [
+        "300 g obranej marchewki",
+        "5 jajek w rozmiarze M",
+        "200 g cukru",
+        "120 ml oleju rzepakowego",
+        "8 g cukru waniliowego",
+        "1 duża łyżeczka przyprawy do piernika",
+        "1 mała łyżeczka cynamonu",
+        "1 łyżeczka proszku do pieczenia",
+        "200 g mąki pszennej",
+        "135 g naturalnego serka kanapkowego",
+        "150 g serka kanapkowego jogurtowego",
+        "3 łyżki cukru pudru",
+        "1 szklanka posiekanych orzechów włoskich",
+        "Bułka tarta i tłuszcz do przygotowania formy"
+      ],
+      "steps": [
+        "Obierz marchewkę, zetrzyj ją na małych oczkach tarki i odstaw.",
+        "Jajka ubij z cukrem i cukrem waniliowym, aż powstanie jasna, puszysta masa.",
+        "Zmniejsz obroty miksera i cienkim strumieniem wlej olej, mieszając do połączenia składników.",
+        "W osobnym naczyniu wymieszaj mąkę, proszek do pieczenia, cynamon i przyprawę do piernika.",
+        "Wsyp suche składniki do masy jajecznej i krótko wymieszaj.",
+        "Dodaj startą marchewkę i połącz ją z masą za pomocą łyżki lub szerokiej szpatułki.",
+        "Formę natłuść i oprósz bułką tartą. Przelej do niej ciasto i wyrównaj powierzchnię.",
+        "Piecz w piekarniku rozgrzanym do 170°C przez około 40 minut. Pod koniec sprawdź środek drewnianym patyczkiem.",
+        "Wyjmij ciasto z piekarnika i pozostaw do całkowitego wystudzenia.",
+        "Wymieszaj oba serki z cukrem pudrem i rozprowadź krem na zimnym cieście.",
+        "Posyp wierzch posiekanymi orzechami włoskimi."
+      ]
     }
   ]
 }
