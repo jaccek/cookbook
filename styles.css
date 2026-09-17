@@ -382,9 +382,3 @@ input[type="search"]:focus {
   font-size: 1.1rem;
 }
 
-@media (min-width: 720px) {
-  .toolbar {
-    grid-template-columns: 1.8fr 1fr;
-    align-items: end;
-  }
-}
