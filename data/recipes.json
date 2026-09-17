@@ -177,6 +177,35 @@
         "Gotuj pierogi partiami w osolonym wrzątku przez około 2 minuty od chwili wypłynięcia.",
         "Podawaj od razu z ulubioną okrasą, podsmażoną cebulką, masłem albo kwaśną śmietaną."
       ]
+    },
+    {
+      "slug": "idealnie-kruchy-spod-do-tarty",
+      "name": "Idealnie kruchy spód do tarty",
+      "description": "Maślane, kruche ciasto do słodkich tart, przygotowane metodą 1:2:3 z mąki krupczatki.",
+      "source": "https://smaki.pl/przepisy/desery/11038356/idealnie-kruchy-spod-do-tarty-przepis-na-kruche-ciasto-do-wypiekow-na-slodko.html",
+      "sourceName": "Smaki.pl",
+      "time": "40 min",
+      "image": "https://img.wprost.pl/img/idealnie-kruchy-spod-do-tarty-przepis-na-kruche-ciasto-do-wypiekow-na-slodko/1d/71/1d7e4725d6f5cc7f296705248720.webp",
+      "images": [
+        "https://img.wprost.pl/img/idealnie-kruchy-spod-do-tarty-przepis-na-kruche-ciasto-do-wypiekow-na-slodko/1d/71/1d7e4725d6f5cc7f296705248720.webp"
+      ],
+      "tags": ["tarta", "ciasto", "deser", "kruche", "podstawowe"],
+      "ingredients": [
+        "300 g mąki pszennej krupczatki",
+        "200 g zimnego masła",
+        "100 g drobnego cukru",
+        "3 żółtka",
+        "2 łyżeczki cukru waniliowego"
+      ],
+      "steps": [
+        "Pokrój zimne masło w kostkę i posiekaj je z mąką, cukrem oraz cukrem waniliowym, aż mieszanka będzie przypominać mokry piasek.",
+        "Dodaj żółtka i szybko połącz składniki. Uformuj kulę, owiń ją folią i włóż na 30 minut do zamrażarki lub na 60 minut do lodówki.",
+        "Kawałkami ciasta wyłóż dno i boki formy do tarty, dociskając je palcami. Nakłuj spód widelcem i schłodź przez 15 minut w zamrażarce lub 30 minut w lodówce.",
+        "Przykryj ciasto pergaminem i obciąż je suchą fasolą albo ryżem.",
+        "Wstaw formę do piekarnika rozgrzanego do 200°C i zmniejsz temperaturę do 180°C. Piecz pod obciążeniem przez 12–15 minut.",
+        "Zdejmij obciążenie i piecz jeszcze 10–12 minut, aż spód się lekko zrumieni.",
+        "Jeśli tarta będzie miała zimne nadzienie, piecz spód łącznie 22–25 minut. Gdy będzie pieczona z dodatkami, wystarczy 15–18 minut."
+      ]
     }
   ]
 }
