@@ -146,6 +146,37 @@
         "Wymieszaj oba serki z cukrem pudrem i rozprowadź krem na zimnym cieście.",
         "Posyp wierzch posiekanymi orzechami włoskimi."
       ]
+    },
+    {
+      "slug": "ciasto-na-pierogi-zaparzane",
+      "name": "Ciasto na pierogi zaparzane gorącą wodą",
+      "description": "Elastyczne i miękkie ciasto na pierogi przygotowane z mąki zaparzanej gorącą wodą.",
+      "source": "https://kuchnia.wp.pl/kucharka-z-garmazerki-zdradzila-trik-na-pierogi-ciasto-wychodzi-elastyczne-i-mieciutkie-jak-plastelina-7330323096922336a",
+      "sourceName": "WP Kuchnia",
+      "time": "45 min",
+      "image": "https://v.wpimg.pl/ZjYwMjhidQs4FTtZRxJ4HntNbwMBS3ZILFV3SEdfalIhRHlYRw8zBjwFKBoHRz0YLAcsHRhHKgZ2Fj0DRx9rRT0ePhoECCNFPBovDwxGaQw4TnlTDA93Wj1GK0dcUDxedE5_Uw1Eag4_RStcWFtiCGlHbxc",
+      "images": [
+        "https://v.wpimg.pl/ZjYwMjhidQs4FTtZRxJ4HntNbwMBS3ZILFV3SEdfalIhRHlYRw8zBjwFKBoHRz0YLAcsHRhHKgZ2Fj0DRx9rRT0ePhoECCNFPBovDwxGaQw4TnlTDA93Wj1GK0dcUDxedE5_Uw1Eag4_RStcWFtiCGlHbxc"
+      ],
+      "tags": ["pierogi", "ciasto", "obiad", "domowe", "podstawowe"],
+      "ingredients": [
+        "3 szklanki mąki pszennej typu 450 lub 500",
+        "1 szklanka gorącej wody",
+        "1 łyżka oleju",
+        "1 płaska łyżeczka soli",
+        "Farsz według uznania"
+      ],
+      "steps": [
+        "Wsyp mąkę i sól do dużej miski, a następnie wlej olej.",
+        "Dodaj gorącą wodę i energicznie wymieszaj składniki łyżką.",
+        "Poczekaj 2–3 minuty, aż masa lekko przestygnie.",
+        "Przełóż ciasto na blat i wyrabiaj przez około 8 minut, aż stanie się jednolite i sprężyste.",
+        "Przykryj ciasto miską lub wilgotną ściereczką i odstaw na 20–30 minut.",
+        "Rozwałkuj ciasto cienko, podsypując blat minimalną ilością mąki.",
+        "Wycinaj krążki, nakładaj farsz i dokładnie zlepiaj brzegi pierogów.",
+        "Gotuj pierogi partiami w osolonym wrzątku przez około 2 minuty od chwili wypłynięcia.",
+        "Podawaj od razu z ulubioną okrasą, podsmażoną cebulką, masłem albo kwaśną śmietaną."
+      ]
     }
   ]
 }
