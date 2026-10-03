@@ -206,6 +206,48 @@
         "Zdejmij obciążenie i piecz jeszcze 10–12 minut, aż spód się lekko zrumieni.",
         "Jeśli tarta będzie miała zimne nadzienie, piecz spód łącznie 22–25 minut. Gdy będzie pieczona z dodatkami, wystarczy 15–18 minut."
       ]
+    },
+    {
+      "slug": "domowe-hot-dogi",
+      "name": "Domowe hot-dogi",
+      "description": "Puszyste, domowe bułki do hot-dogów z sezamem — idealne do ulubionych dodatków i domowego jedzenia na mieście.",
+      "source": "https://poprostupycha.com.pl/przepis/domowe-hot-dogi/",
+      "sourceName": "Po Prostu Pycha",
+      "time": "105 min",
+      "image": "https://poprostupycha.com.pl/wp-content/uploads/2020/04/bulki-do-hot-dogow_6-1025x1536.jpg",
+      "images": [
+        "https://poprostupycha.com.pl/wp-content/uploads/2020/04/bulki-do-hot-dogow_6-1025x1536.jpg",
+        "https://poprostupycha.com.pl/wp-content/uploads/2020/04/bulki-do-hot-dogow.jpg",
+        "https://poprostupycha.com.pl/wp-content/uploads/2020/04/bulki-do-hot-dogow_1.jpg",
+        "https://poprostupycha.com.pl/wp-content/uploads/2020/04/bulki-do-hot-dogow_7.jpg"
+      ],
+      "tags": ["hot-dogi", "bułki", "drożdżowe", "piknik", "domowe"],
+      "ingredients": [
+        "480 g mąki pszennej",
+        "20 g świeżych drożdży lub 7 g suchych",
+        "1 płaska łyżka cukru",
+        "200 ml letniej wody",
+        "1 jajko",
+        "70 g masła, roztopionego i przestudzonego",
+        "1 łyżeczka soli",
+        "1 roztrzepane jajko do posmarowania",
+        "Sezam lub mak do posypania",
+        "8–10 parówek lub kabanosów",
+        "Rukola lub sałata",
+        "1 czerwona cebula, pokrojona w piórka",
+        "1 ogórek zielony, pokrojony w plasterki",
+        "Ulubiony sos, np. czosnkowy lub ketchup"
+      ],
+      "steps": [
+        "Do miseczki rozkrusz świeże drożdże, dodaj płaską łyżkę cukru, łyżkę mąki i około 50 ml letniej wody. Dokładnie wymieszaj i odstaw na 10 minut, aż drożdże ruszą.",
+        "Do większej miski wsyp przesianą mąkę, dodaj roztopione i przestudzone masło, jajko, pozostałe 150 ml letniej wody, sól i wyrośnięty rozczyn. Wyrabiaj ciasto ręcznie lub mikserem z hakiem przez około 10 minut, aż będzie elastyczne i gładkie.",
+        "Przykryj miskę ściereczką i odstaw ciasto na minimum 60 minut do wyrośnięcia, aż podwoi objętość.",
+        "Po wyrośnięciu podziel ciasto na 8–10 równych części. Uformuj z nich podłużne bułki, przełóż na blaszkę wyłożoną papierem do pieczenia i lekko spłaszcz.",
+        "Przykryj bułki ściereczką i zostaw na 5–10 minut, aby lekko napuszyły. Następnie posmaruj roztrzepanym jajkiem i posyp sezamem lub makiem.",
+        "Piekarnik rozgrzej do 190°C. Piecz bułki przez 20–22 minuty, aż będą pięknie rumiane i wyrośnięte. Jeśli chcesz, wstaw niżej foremkę z wodą, aby uzyskać chrupiącą skórkę.",
+        "Po upieczeniu ostudź bułki na kratce. Przecięj je wzdłuż, nie do końca, i nadziej rukolę, parówkę, czerwoną cebulę, ogórka oraz ulubiony sos.",
+        "Podawaj od razu, najlepiej z dodatkami do wyboru, takimi jak sos czosnkowy, ketchup lub musztarda."
+      ]
     }
   ]
 }
