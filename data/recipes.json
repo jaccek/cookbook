@@ -248,6 +248,50 @@
         "Po upieczeniu ostudź bułki na kratce. Przecięj je wzdłuż, nie do końca, i nadziej rukolę, parówkę, czerwoną cebulę, ogórka oraz ulubiony sos.",
         "Podawaj od razu, najlepiej z dodatkami do wyboru, takimi jak sos czosnkowy, ketchup lub musztarda."
       ]
+    },
+    {
+      "slug": "labedzi-puch",
+      "name": "Łabędzi puch",
+      "description": "Delikatne ciasto biszkoptowe z kremem kokosowo-bułkowym, dżemem porzeczkowym i prażonym kokosem.",
+      "source": "https://www.przyslijprzepis.pl/przepis/labedzi-puch-9",
+      "sourceName": "Przyslij Przepis",
+      "time": "60 min",
+      "image": "https://www.przyslijprzepis.pl/media/cache/default_thumbnail/uploads/media/recipe_steps/0007/27/ciasto_5.jpeg",
+      "images": [
+        "https://www.przyslijprzepis.pl/media/cache/gallery_view/uploads/media/recipe/0007/27/labedzi-puch.jpeg",
+        "https://www.przyslijprzepis.pl/media/cache/gallery_view/uploads/media/recipe/0007/27/labedzi-puch_1.jpeg",
+        "https://www.przyslijprzepis.pl/media/cache/gallery_view/uploads/media/recipe/0007/27/labedzi-puch_2.jpeg"
+      ],
+      "tags": ["ciasto", "deser", "kokos", "dżem", "biszkopt"],
+      "ingredients": [
+        "Biszkopt: 5 jajek L",
+        "Biszkopt: 1 szklanka mąki pszennej z czubkiem",
+        "Biszkopt: 2 łyżki mąki ziemniaczanej",
+        "Biszkopt: 2 płaskie łyżeczki proszku do pieczenia",
+        "Biszkopt: 3/4 szklanki cukru",
+        "Biszkopt: szczypta soli",
+        "Masa bułkowo-kokosowa: 2 bułki kajzerki",
+        "Masa bułkowo-kokosowa: 3 szklanki mleka",
+        "Masa bułkowo-kokosowa: pół szklanki cukru",
+        "Masa bułkowo-kokosowa: 1 paczka cukru waniliowego",
+        "Masa bułkowo-kokosowa: 100 g wiórek kokosowych",
+        "Masa bułkowo-kokosowa: 250 g masła lub margaryny, w temperaturze pokojowej",
+        "Posypka: 1 łyżka masła",
+        "Posypka: 100 g wiórek kokosowych",
+        "Posypka: pół szklanki cukru",
+        "Dodatkowo: słoiczek dżemu z jagód lub z czarnej porzeczki",
+        "Dodatkowo: pół szklanki wody",
+        "Dodatkowo: 3 łyżki likieru kokosowego"
+      ],
+      "steps": [
+        "Oddziel żółtka od białek. Do białek dodaj szczyptę soli i ubij na sztywno. Dodawaj partiami cukier i ubijaj do momentu rozpuszczenia się cukru. Dodaj po jednym żółtku. Odkładając mikser, przesiewamy mąkę z proszkiem do pieczenia do masy, delikatnie mieszamy łyżką i przelewamy do blaszki wyłożonej papierem do pieczenia. Delikatnie wyrównujemy i pieczemy w temperaturze 180°C przez 25–30 minut do tzw. suchego patyczka. Po upieczeniu odwracamy biszkopt do góry dnem, ściągamy papier i pozostawiamy do przestygnięcia.",
+        "Po przestygnięciu biszkopt przekrój na 2 blaty. Bułki rozdrobnij na mniejsze kawałki, wrzuć do miseczki i zalej 2 szklankami mleka. Odstaw na chwilę, aż dobrze namiękną.",
+        "Następnie rozdrobnij je widelcem na papkę, wsyp wiórki i wymieszaj.",
+        "Pozostałe mleko zagotuj z cukrami, dodaj masę bułkowo-kokosową.",
+        "Gotuj na małym ogniu, cały czas mieszając, aż do zgęstnienia. Masę wystudź do temperatury pokojowej. Miękkie masło ubij na puch, dodając łyżkami wystudzoną masę bułkowo-kokosową, aż powstanie gładka masa. Spód biszkoptu nasącz połową wody wymieszanej z likierem, posmaruj dżemem i wyłóż 2/3 masy.",
+        "Przykryj drugim blatem biszkoptu, nasącz górę, rozsmaruj pozostałą część masy i posyp prażonymi wiórkami. Wiórki, masło i cukier podsmaż na patelni do zrumienienia, cały czas mieszając. Ciasto włóż do lodówki.",
+        "Ciasto najlepiej smakuje następnego dnia. Likier kokosowy można zastąpić wodą z cytryną i cukrem do smaku."
+      ]
     }
   ]
 }
