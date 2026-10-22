@@ -12,7 +12,7 @@
         "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=900&q=80",
         "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=80"
       ],
-      "tags": ["wegetariańskie", "szybkie", "lunch", "wysokobiałkowe"],
+      "tags": ["wegetariańskie", "szybkie", "obiad"],
       "ingredients": [
         "1 puszka ciecierzycy, odsączona i opłukana",
         "1 awokado, pokrojone w kostkę",
@@ -43,7 +43,7 @@
         "https://ciastkozercy.pl/wp-content/uploads/2013/12/babeczki-waniliowe-31.jpg",
         "https://ciastkozercy.pl/wp-content/uploads/2013/12/babeczki-waniliowe-41.jpg"
       ],
-      "tags": ["babeczki", "waniliowe", "deser", "proste", "dla-dzieci"],
+      "tags": ["deser", "wypieki", "domowe"],
       "ingredients": [
         "2 szklanki mąki",
         "2 łyżeczki proszku do pieczenia",
@@ -72,7 +72,7 @@
       "images": [
         "https://cdn.galleries.smcloud.net/t/galleries/gf-hEru-zVq5-Jtnr_przepis-na-pizzerinki-puszyste-i-pyszne-mini-pizze-994x828.webp"
       ],
-      "tags": ["pizzerinki", "pizza", "przekąska", "impreza", "kolacja"],
+      "tags": ["pizza", "przekąska", "kolacja"],
       "ingredients": [
         "Rozczyn: 5 dag drożdży",
         "Rozczyn: 2 łyżki cukru",
@@ -116,7 +116,7 @@
       "images": [
         "https://bi.im-g.pl/im/db/7d/1f/z33018075IH,Ciasto-marchewkowe.jpg"
       ],
-      "tags": ["ciasto", "marchewka", "deser", "jesienne", "z-kremem"],
+      "tags": ["deser", "wypieki"],
       "ingredients": [
         "300 g obranej marchewki",
         "5 jajek w rozmiarze M",
@@ -158,7 +158,7 @@
       "images": [
         "https://v.wpimg.pl/ZjYwMjhidQs4FTtZRxJ4HntNbwMBS3ZILFV3SEdfalIhRHlYRw8zBjwFKBoHRz0YLAcsHRhHKgZ2Fj0DRx9rRT0ePhoECCNFPBovDwxGaQw4TnlTDA93Wj1GK0dcUDxedE5_Uw1Eag4_RStcWFtiCGlHbxc"
       ],
-      "tags": ["pierogi", "ciasto", "obiad", "domowe", "podstawowe"],
+      "tags": ["obiad", "domowe"],
       "ingredients": [
         "3 szklanki mąki pszennej typu 450 lub 500",
         "1 szklanka gorącej wody",
@@ -189,7 +189,7 @@
       "images": [
         "https://img.wprost.pl/img/idealnie-kruchy-spod-do-tarty-przepis-na-kruche-ciasto-do-wypiekow-na-slodko/1d/71/1d7e4725d6f5cc7f296705248720.webp"
       ],
-      "tags": ["tarta", "ciasto", "deser", "kruche", "podstawowe"],
+      "tags": ["deser", "wypieki"],
       "ingredients": [
         "300 g mąki pszennej krupczatki",
         "200 g zimnego masła",
@@ -221,7 +221,7 @@
         "https://poprostupycha.com.pl/wp-content/uploads/2020/04/bulki-do-hot-dogow_1.jpg",
         "https://poprostupycha.com.pl/wp-content/uploads/2020/04/bulki-do-hot-dogow_7.jpg"
       ],
-      "tags": ["hot-dogi", "bułki", "drożdżowe", "piknik", "domowe"],
+      "tags": ["przekąska", "kolacja", "domowe"],
       "ingredients": [
         "480 g mąki pszennej",
         "20 g świeżych drożdży lub 7 g suchych",
@@ -262,7 +262,7 @@
         "https://www.przyslijprzepis.pl/media/cache/gallery_view/uploads/media/recipe/0007/27/labedzi-puch_1.jpeg",
         "https://www.przyslijprzepis.pl/media/cache/gallery_view/uploads/media/recipe/0007/27/labedzi-puch_2.jpeg"
       ],
-      "tags": ["ciasto", "deser", "kokos", "dżem", "biszkopt"],
+      "tags": ["deser", "wypieki"],
       "ingredients": [
         "Biszkopt: 5 jajek L",
         "Biszkopt: 1 szklanka mąki pszennej z czubkiem",
@@ -306,7 +306,7 @@
         "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/cynamonki-01.jpg",
         "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/cynamonki-03.jpg"
       ],
-      "tags": ["drożdżówki", "cynamon", "słodkie", "wypieki", "deser"],
+      "tags": ["deser", "wypieki"],
       "ingredients": [
         "Ciasto: 500 g mąki pszennej",
         "Ciasto: szczypta soli",
