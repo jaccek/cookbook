@@ -292,6 +292,48 @@
         "Przykryj drugim blatem biszkoptu, nasącz górę, rozsmaruj pozostałą część masy i posyp prażonymi wiórkami. Wiórki, masło i cukier podsmaż na patelni do zrumienienia, cały czas mieszając. Ciasto włóż do lodówki.",
         "Ciasto najlepiej smakuje następnego dnia. Likier kokosowy można zastąpić wodą z cytryną i cukrem do smaku."
       ]
+    },
+    {
+      "slug": "cynamonki",
+      "name": "Bułeczki cynamonowe (cynamonki)",
+      "description": "Miękkie, puszyste drożdżówki z aromatycznym nadzieniem cynamonowym i prostym lukrem cytrynowym.",
+      "source": "https://www.kwestiasmaku.com/przepis/buleczki-cynamonowe-cinnamon-rolls",
+      "sourceName": "Kwestia Smaku",
+      "time": "2 godz. 15 min",
+      "image": "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/cinnamon_rolls_04.jpg",
+      "images": [
+        "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/cinnamon_rolls_04.jpg",
+        "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/cinnamon_rolls_05.jpg",
+        "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/cynamonki-03.jpg"
+      ],
+      "tags": ["drożdżówki", "cynamon", "słodkie", "wypieki", "deser"],
+      "ingredients": [
+        "Ciasto: 500 g mąki pszennej",
+        "Ciasto: szczypta soli",
+        "Ciasto: 10 g drożdży instant lub 30 g świeżych drożdży",
+        "Ciasto: 50 g cukru",
+        "Ciasto: 250 ml mleka",
+        "Ciasto: 2 jajka",
+        "Ciasto: 70 g miękkiego masła",
+        "Ciasto: 1 jajko do posmarowania",
+        "Nadzienie: 70 g miękkiego masła",
+        "Nadzienie: 3 łyżki mielonego cynamonu",
+        "Nadzienie: 2 łyżki cukru wanilinowego",
+        "Nadzienie: 1/2 szklanki cukru trzcinowego",
+        "Nadzienie: skórka starta z 1/2 cytryny (opcjonalnie)",
+        "Lukier: sok z 1/2 cytryny",
+        "Lukier: 3/4 szklanki cukru pudru"
+      ],
+      "steps": [
+        "Ogrzej składniki do temperatury pokojowej, a mleko delikatnie podgrzej, aby było letnie. Przy świeżych drożdżach przygotuj rozczyn z drożdży, łyżeczki cukru, 2 łyżek mąki i części mleka; odstaw na 15–20 minut.",
+        "Wymieszaj mąkę z solą. Dodaj drożdże instant albo wyrośnięty rozczyn, cukier, mleko i jajka. Wyrabiaj, stopniowo dodając miękkie masło, przez około 15 minut, aż ciasto będzie gładkie i elastyczne.",
+        "Przykryj miskę i odstaw ciasto w ciepłe miejsce na co najmniej godzinę, aż wyraźnie wyrośnie.",
+        "Podziel ciasto na dwie części i każdą rozwałkuj na kwadrat o wymiarach około 30 x 30 cm.",
+        "Wymieszaj cynamon, cukier wanilinowy, cukier trzcinowy i opcjonalną skórkę cytrynową. Posmaruj placki miękkim masłem i równomiernie posyp nadzieniem.",
+        "Zwiń każdy placek w roladę i pokrój na 10 plasterków. Ułóż bułeczki na blasze wyłożonej papierem do pieczenia, zostawiając między nimi miejsce. Odstaw na 15–20 minut do ponownego wyrośnięcia.",
+        "Posmaruj wierzch roztrzepanym jajkiem. Piecz w piekarniku rozgrzanym do 180°C przez około 20 minut, aż bułeczki będą złociste.",
+        "Podgrzej sok z cytryny, wymieszaj z cukrem pudrem i polej lukrem upieczone bułeczki."
+      ]
     }
   ]
 }
