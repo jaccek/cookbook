@@ -334,6 +334,44 @@
         "Posmaruj wierzch roztrzepanym jajkiem. Piecz w piekarniku rozgrzanym do 180°C przez około 20 minut, aż bułeczki będą złociste.",
         "Podgrzej sok z cytryny, wymieszaj z cukrem pudrem i polej lukrem upieczone bułeczki."
       ]
+    },
+    {
+      "slug": "sernik-z-rosa",
+      "name": "Sernik z rosą",
+      "description": "Kremowy sernik na kruchym spodzie, przykryty lekką bezą, na której po wystudzeniu pojawiają się charakterystyczne kropelki rosy.",
+      "source": "https://delektujemy.pl/przepisy/sernik-z-rosa/",
+      "sourceName": "Delektujemy.pl",
+      "time": "ok. 1 godz. 30 min + studzenie",
+      "tags": ["deser", "wypieki", "sernik"],
+      "images": [
+        "https://delektujemy.pl/wp-content/uploads/2023/06/357A4816-scaled.webp"
+      ],
+      "ingredients": [
+        "Spód: 1 opakowanie gotowej mieszanki do ciasta kruchego",
+        "Spód: zimne masło i cukier puder, w ilości podanej na opakowaniu mieszanki",
+        "Spód: 1 jajko",
+        "Spód: 2 żółtka (białka odłóż do bezy)",
+        "Masa serowa: 1 kg zmielonego twarogu",
+        "Masa serowa: 2 jajka",
+        "Masa serowa: 4 żółtka (białka odłóż do bezy)",
+        "Masa serowa: 1 szklanka cukru",
+        "Masa serowa: 3 łyżeczki ekstraktu waniliowego",
+        "Masa serowa: 2 opakowania budyniu waniliowego",
+        "Masa serowa: 3 szklanki mleka",
+        "Masa serowa: 1/2 szklanki oleju",
+        "Beza: 6 białek",
+        "Beza: 1 szklanka cukru",
+        "Dodatkowo: masło i bułka tarta lub krupczatka do przygotowania formy"
+      ],
+      "steps": [
+        "Przygotuj kruche ciasto zgodnie z instrukcją mieszanki: dodaj zimne masło i cukier puder, a następnie jajko i 2 żółtka. Uformuj kulę i krótko schłodź w zamrażalniku.",
+        "Natłuść dużą formę o wymiarach około 25 × 40 cm i oprósz bułką tartą lub krupczatką. Wylep dno ciastem, nakłuj widelcem i podpiecz przez około 10 minut w 180°C.",
+        "Ubij 2 jajka i 4 żółtka z cukrem na jasną, puszystą masę. Miksując, dodawaj twaróg oraz ekstrakt waniliowy.",
+        "Rozprowadź proszki budyniowe w mleku. Wlewaj mieszankę stopniowo do masy serowej, miksując na niskich obrotach, a na końcu dodaj olej.",
+        "Wylej masę na podpieczony spód i piecz w 180°C przez około 50 minut, aż masa się zetnie.",
+        "Pod koniec pieczenia ubij 6 białek z cukrem na sztywną, gęstą pianę. Wyłóż ją na gorący sernik i wyrównaj.",
+        "Zmniejsz temperaturę piekarnika do 150°C i piecz jeszcze 20 minut. Wyjmij sernik i pozostaw do całkowitego wystudzenia, kiedy na bezie pojawią się kropelki rosy."
+      ]
     }
   ]
 }
